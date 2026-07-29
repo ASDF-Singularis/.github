@@ -21,8 +21,6 @@ Singularis 是一套面向 **Unreal Engine 5** 的模块化插件框架。<br>
 
 ---
 
-<div align="center">
-
 ### 🏛️ 设计哲学
 
 每个插件严格遵循单一职责，彼此独立、非侵入式。<br>
@@ -33,8 +31,6 @@ Singularis 是一套面向 **Unreal Engine 5** 的模块化插件框架。<br>
 单机与多人项目同步受益。
 
 </div>
-
----
 
 <div align="center">
 
@@ -47,8 +43,6 @@ C++ 样板代码生成器一键产出预配置的子系统与复制组件。
 
 </div>
 
----
-
 <div align="center">
 
 ### 🤝 交流与协作
@@ -57,8 +51,6 @@ C++ 样板代码生成器一键产出预配置的子系统与复制组件。
 获取框架：[github.com/ASDFStudio/Singularis](https://github.com/ASDFStudio/Singularis)<br>
 提交 [Issue](https://github.com/ASDF-Singulais/.github/issues)<br>
 发送邮件至 `TrifingZW@gmail.com`
-
-</div>
 
 ---
 
